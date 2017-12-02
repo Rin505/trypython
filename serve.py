@@ -1,7 +1,7 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 #HTTPRequestHandler class
-class HTTPServer_RequestHandler(BaseHTTPRequestHandler)
+class HTTPServer_RequestHandler(BaseHTTPRequestHandler):
 
     # GET
     def do_GET(self):
