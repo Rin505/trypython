@@ -1,4 +1,3 @@
-
 import csv
 import cs50
 from student import Student
@@ -16,5 +15,6 @@ for i in range(3):
 file = open("students.csv", "w")
 writer = csv.writer(file)
 for student in students:
-    writer.writerow(student.name, student.dorm)
+    writer.writerow(student.name)
+    writer.writerow(student.dorm)
 file.close()
