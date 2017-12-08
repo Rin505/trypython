@@ -8,6 +8,6 @@ def index():
 
 @app.route("/register", methods=["POST"])
 def register():
-    if request.form["Name"] == "" or request.form["Dorm"] == "":
+    if request.form["name"] == "" or request.form["dorm"] == "":
         return render_template("failure.html")
     return render_template('success.html')
