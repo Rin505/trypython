@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 #HTTPRequestHandler class
@@ -18,8 +19,8 @@ class HTTPServer_RequestHandler(BaseHTTPRequestHandler):
         return
 
 # configure server
-port = 8080
-server_address = ("0.0.0.0", port)
+port = 5000
+server_address = ("127.0.0.1", port)
 httpd = HTTPServer(server_address, HTTPServer_RequestHandler)
 
 # run server

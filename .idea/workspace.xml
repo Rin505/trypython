@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14b72af-9685-48d8-a646-2f6a757925e7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/week8/array0.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/week8/for.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/week8/tuples0.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/objects0.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/trypython.iml" afterPath="$PROJECT_DIR$/.idea/trypython.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/froshims/application.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/froshims/templates/failure.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/froshims/templates/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/froshims/templates/layout.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/froshims/templates/success.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/store/application.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/store/templates/cart.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/store/templates/layout.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm/store/templates/store.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flaskprogramm0/application0.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pizzas.py" afterPath="$PROJECT_DIR$/week8/pizzas.py" />
+      <change beforePath="$PROJECT_DIR$/serve.py" afterPath="$PROJECT_DIR$/serve.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,6 +42,7 @@
     <SUITE FILE_PATH="coverage/trypython$caugh3.coverage" NAME="caugh3 Coverage Results" MODIFIED="1511606407846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trypython$structs0.coverage" NAME="structs0 Coverage Results" MODIFIED="1512059294011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trypython$strlen.coverage" NAME="strlen Coverage Results" MODIFIED="1511689295200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trypython$objects0.coverage" NAME="objects0 Coverage Results" MODIFIED="1512823744545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trypython$cs50.coverage" NAME="cs50 Coverage Results" MODIFIED="1511544292353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trypython$swap1.coverage" NAME="swap1 Coverage Results" MODIFIED="1512058527960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/trypython$positive.coverage" NAME="positive Coverage Results" MODIFIED="1511605387233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -63,31 +53,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pizzas.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week8/pizzas.py">
+      <file leaf-file-name="application.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/froshims/application.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="registrants.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/froshims/registrants.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tuples0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week8/tuples0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -109,9 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cs50.py" />
-        <option value="$PROJECT_DIR$/string2.py" />
-        <option value="$PROJECT_DIR$/get_integer.py" />
         <option value="$PROJECT_DIR$/imprecision.py" />
         <option value="$PROJECT_DIR$/inst.py" />
         <option value="$PROJECT_DIR$/temperature.py" />
@@ -138,7 +117,6 @@
         <option value="$PROJECT_DIR$/dictionary.py" />
         <option value="$PROJECT_DIR$/application.py" />
         <option value="$PROJECT_DIR$/flaskprogramm0/application0.py" />
-        <option value="$PROJECT_DIR$/serve.py" />
         <option value="$PROJECT_DIR$/flaskprogramm/layout.html" />
         <option value="$PROJECT_DIR$/flaskprogramm/failure.html" />
         <option value="$PROJECT_DIR$/flaskprogramm/success.html" />
@@ -160,6 +138,10 @@
         <option value="$PROJECT_DIR$/week8/tuples0.py" />
         <option value="$PROJECT_DIR$/pizzas.py" />
         <option value="$PROJECT_DIR$/week8/pizzas.py" />
+        <option value="$PROJECT_DIR$/week8/struct0.py" />
+        <option value="$PROJECT_DIR$/objects0.py" />
+        <option value="$PROJECT_DIR$/serve.py" />
+        <option value="$PROJECT_DIR$/week8/flaskprogramm/froshims/application.py" />
       </list>
     </option>
   </component>
@@ -176,10 +158,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="216" />
-    <option name="y" value="88" />
-    <option name="width" value="1303" />
-    <option name="height" value="709" />
+    <option name="x" value="211" />
+    <option name="y" value="138" />
+    <option name="width" value="1267" />
+    <option name="height" value="572" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -216,8 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,6 +212,19 @@
               <item name="trypython" type="462c0819:PsiDirectoryNode" />
               <item name="week8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="trypython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trypython" type="462c0819:PsiDirectoryNode" />
+              <item name="week8" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskprogramm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trypython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trypython" type="462c0819:PsiDirectoryNode" />
+              <item name="week8" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskprogramm" type="462c0819:PsiDirectoryNode" />
+              <item name="froshims" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,24 +232,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="pizza&#9;FILE&#9;file:///home/rin/PycharmProjects/trypython/pizzas.py&#10;template&#9;ACTION&#9;NewFromTemplate&#10;template &#9;null&#9;null&#10;cau&#9;FILE&#9;file://C:/Users/naken/PycharmProjects/trypython/caugh3.py" />
+    <property name="SearchEverywhereHistoryKey" value="serve&#9;FILE&#9;file:///home/rin/PycharmProjects/trypython/serve.py&#10;pizza&#9;FILE&#9;file:///home/rin/PycharmProjects/trypython/pizzas.py&#10;template&#9;ACTION&#9;NewFromTemplate&#10;template &#9;null&#9;null&#10;cau&#9;FILE&#9;file://C:/Users/naken/PycharmProjects/trypython/caugh3.py" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week8/flaskprogramm" />
+      <recent name="$PROJECT_DIR$/flaskprogramm/store/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\naken\PycharmProjects\trypython" />
+      <recent name="C:\Users\naken\PycharmProjects\trypython\cs50" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week8" />
       <recent name="$PROJECT_DIR$/flaskprogramm/froshims" />
       <recent name="$PROJECT_DIR$/flaskprogramm/templates" />
       <recent name="C:\Users\naken\PycharmProjects\trypython\cs50" />
       <recent name="C:\Users\naken\PycharmProjects\trypython" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/flaskprogramm/store/templates" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\naken\PycharmProjects\trypython" />
-      <recent name="C:\Users\naken\PycharmProjects\trypython\cs50" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pizzas">
+  <component name="RunManager" selected="Python.objects0">
     <configuration name="success.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/trypython/flaskprogramm/templates/success.html" />
     <configuration name="array0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,6 +300,25 @@
       <module name="trypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8/for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="objects0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="trypython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,25 +362,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="structs1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="trypython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structs1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="tuples0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,19 +384,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.serve" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.success.html" />
-      <item index="2" class="java.lang.String" itemvalue="Python.structs1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pizzas" />
-      <item index="4" class="java.lang.String" itemvalue="Python.for" />
-      <item index="5" class="java.lang.String" itemvalue="Python.array0" />
-      <item index="6" class="java.lang.String" itemvalue="Python.tuples0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pizzas" />
+      <item index="3" class="java.lang.String" itemvalue="Python.for" />
+      <item index="4" class="java.lang.String" itemvalue="Python.array0" />
+      <item index="5" class="java.lang.String" itemvalue="Python.tuples0" />
+      <item index="6" class="java.lang.String" itemvalue="Python.objects0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pizzas" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tuples0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.array0" />
-        <item index="3" class="java.lang.String" itemvalue="Python.for" />
-        <item index="4" class="java.lang.String" itemvalue="Python.structs1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.objects0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pizzas" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tuples0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.array0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.for" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512809609233</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="snooze">
+      <created>1512821978011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512821978011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -464,15 +467,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="216" y="88" width="1303" height="709" extended-state="0" />
+    <frame x="211" y="138" width="1267" height="572" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.50530505" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27294686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.49469495" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19968179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785422" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -545,34 +548,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imprecision.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temperature.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logical.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -739,13 +714,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application.py" />
-    <entry file="file://$PROJECT_DIR$/serve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week8/flaskprogramm0/application0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -812,13 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/froshims/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/store/templates/store.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -858,31 +819,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week8/tuples0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week8/pizzas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="345">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/struct0.py" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/tuples0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/froshims1/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/froshims/registrants.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/flaskprogramm/froshims/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
