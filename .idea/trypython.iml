@@ -9,7 +9,11 @@
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
     <option name="TEMPLATE_FOLDERS">
       <list>
+<<<<<<< HEAD
         <option value="$MODULE_DIR$/flaskprogramm/froshims/templates" />
+=======
+        <option value="$MODULE_DIR$/week8/flaskprogramm/froshims/templates" />
+>>>>>>> 74608f26ee7fa7ccf6cba8bd437ca4e66df8ff45
       </list>
     </option>
   </component>

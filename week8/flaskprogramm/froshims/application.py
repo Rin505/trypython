@@ -1,5 +1,5 @@
 from flask import Flask, redirect, render_template, request, sessions, url_for
-
+import csv
 app = Flask(__name__)
 
 @app.route("/")
@@ -10,4 +10,7 @@ def index():
 def register():
     if request.form["name"] == "" or request.form["dorm"] == "":
         return render_template("failure.html")
+    file = open("registrants.csv", "a")
+    writer = csv.writer(file)
+    writer.writerow((request.form["name"], request.form["dorm"]))
     return render_template('success.html')
